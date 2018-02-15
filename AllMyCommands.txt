@@ -42,7 +42,11 @@ $ git checkout master
 
 $ git merge ReadMe
 
+$ git add "AllMyCommands.txt"
 
+$ git commit -m "adding AllMyCommands.txt"
+
+$ git push origin master 
 
 
 
